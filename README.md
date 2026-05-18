@@ -30,9 +30,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="62%">
 
 ```python
 class AvinashMaharoliya:
@@ -56,7 +58,14 @@ print(me.fun_fact())
 # Output: I teach machines to see the world 👁️
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="38%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
+
+</td>
+</tr>
+</table>
 
 ---
 
