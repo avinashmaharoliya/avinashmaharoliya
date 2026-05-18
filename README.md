@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Avinash%20Maharoliya&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=60&descColor=ffffff&descSize=18" width="100%"/>
 
