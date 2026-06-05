@@ -39,9 +39,9 @@
 ```python
 class AvinashMaharoliya:
     name     = "Avinash Maharoliya"
-    role     = "Aspiring AI Engineer"
+    role     = "Aspiring AI and RoboticsEngineer"
     location = "Bangalore, India 📍"
-    focus    = ["Deep Learning", "Computer Vision",
+    focus    = ["ROS", "Computer Vision",
                 "Neural Networks", "MLOps"]
 
     def currently(self):
