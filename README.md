@@ -8,10 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=avinashmaharoliya&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/avinashmaharoliya?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" />
-
 <br/><br/>
 
 <a href="https://instagram.com/avinash_maharoliya">
